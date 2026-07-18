@@ -1,7 +1,3 @@
-![Cinematic Intro](.https://onecompiler.com/html/44vkzspgz)
-
-[![](https://komarev.com/ghpvc/?username=tejayyahosamath18-lang&icon=0&color=0)](https://onecompiler.com/html/44vkxsy56)
-
 # 💫 About Me:
 🔭 I'm currently working on<br>Data Analytics projects using Python, SQL, Excel, Power BI, and Tableau.<br><br>👯 I'm looking to collaborate on<br>Open Source, Data Analytics, AI Automation, and Business Intelligence projects.<br><br>🤝 I'm looking for help with<br>Real-world Data Analytics projects, Machine Learning, and career opportunities.<br><br>🌱 I'm currently learning<br>RStudio, Big Data, Machine Learning, AI Automation, n8n, Git, GitHub, Pandas, NumPy, and Jupyter Notebook/Lab.<br><br>💬 Ask me about<br>Python, SQL, Excel, Power BI, Tableau, Tally Prime, Data Analytics, Data Visualization, and Automation.<br><br>⚡ Fun fact<br>I enjoy transforming raw data into meaningful insights and continuously learning new technologies to solve real-world business problems.
 
