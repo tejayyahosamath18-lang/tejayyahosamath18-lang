@@ -1,4 +1,4 @@
-![Cinematic Intro](./profile-intro.svg)
+![Cinematic Intro](.https://onecompiler.com/html/44vkzspgz)
 
 [![](https://komarev.com/ghpvc/?username=tejayyahosamath18-lang&icon=0&color=0)](https://onecompiler.com/html/44vkxsy56)
 
