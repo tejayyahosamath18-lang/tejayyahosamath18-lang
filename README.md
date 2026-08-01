@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Data Analytics projects using Python, SQL, Excel, Power BI, and Tableau.<br><br>👯 I’m looking to collaborate on<br>Open Source, Data Analytics, AI Automation, and Business Intelligence projects.<br><br>🤝 I’m looking for help with<br>Real-world Data Analytics projects, Machine Learning, and career opportunities.<br><br>🌱 I’m currently learning<br>RStudio, Big Data, Machine Learning, AI Automation, n8n, Git, GitHub, Pandas, NumPy, and Jupyter Notebook/Lab.<br><br>💬 Ask me about<br>Python, SQL, Excel, Power BI, Tableau, Tally Prime, Data Analytics, Data Visualization, and Automation.<br><br>⚡ Fun fact<br>I enjoy transforming raw data into meaningful insights and continuously learning new technologies to solve real-world business problems.
 
-## 🌐 Socials:
+## 🌐 Socials:.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/greentree_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejayya-hosamath) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](#) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejayyahosamath10@gmail.com)
 
 # 💻 Tech Stack:.
